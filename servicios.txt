@@ -57,6 +57,20 @@ Horario de atención
 - Domingo: Cerrado (los domingos nos vamos a jugar con la consola y no abrimos por nada del mundo)
 
 --------------------------------------------------
+Normas de la barbería
+--------------------------------------------------
+1. Si entra Randy Marsh gritando fuera de sí, todo el mundo debe tirarse al suelo inmediatamente.
+2. Queda estrictamente prohibido meter pavos mutantes o vacas de la granja en la zona de lavado.
+3. No nos hacemos responsables si Butters tropieza con el cable del secador y deja sin luz a todo South Park.
+4. Si a la madre de Cartman no le gusta tu peinado, no se hacen devoluciones de dinero.
+5. Si el Sr. Garrison entra con el Sr. Sombrero exigiendo un cambio de look radical, todo cliente deberá ceder su turno o atenerse a un parte de expulsión.
+6. Prohibido mencionar a los hippies dentro del local; si dices esa palabra, Cartman pondrá música heavy metal a todo volumen para fumigar la sala.
+7. Si caes en la trampa de un bromista y terminas con gomina de pegamento en la cabeza, el tratamiento de disolvente se cobra por separado.
+8. En caso de abducción alienígena a mitad del corte de pelo, la sesión se dará por completada y no se reembolsará el importe a la familia.
+9. Los clientes no pueden tocar la silla de ruedas de Timmy ni usarla como asiento de espera, aunque lleve los mejores cojines del pueblo.
+10. Si Ike entra rodando por el suelo como un balón, la norma oficial exige darle una patada suave hacia la calle al grito de ¡Patea al bebé!
+
+--------------------------------------------------
 Comando /help
 --------------------------------------------------
 Pon /help si necesitas ayuda y te diremos de qué va la cosa y qué comandos hay disponibles. Puedes preguntar por:
@@ -68,6 +82,7 @@ Preguntas:
 - Colores para cambiarte el pelo
 - Servicio especial de niñera para Ike o seguro anti-accidentes
 - Cómo reservar si tienes pasta para pagar cita previa
+- Normativas de la barberia
 
 Comandos disponibles:
 /help

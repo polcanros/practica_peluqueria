@@ -1,0 +1,3 @@
+google-genai
+python-dotenv
+#tkinter -> ya viene con python entonces no hace falta
